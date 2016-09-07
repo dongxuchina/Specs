@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/dongxuchina/module-support.git", :commit => '226b3cdd8381939156518681cda8f9666e56a847'}
+  s.source       = { :git => "https://github.com/dongxuchina/module-support.git"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
