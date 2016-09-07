@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "module-live"
-  s.version      = "1.0.0-a"
+  s.version      = "1.0.0"
   s.summary      = "直播模块"
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/dongxuchina/module-live.git"}
+  s.source       = { :git => "https://github.com/dongxuchina/module-live.git", :commit => ''}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
