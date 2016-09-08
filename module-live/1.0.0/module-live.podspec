@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #
 
   s.source       = { :git => "https://github.com/dongxuchina/module-live.git"}
-
+  s.dependency 'module-support', '~> 1.0.0'
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
